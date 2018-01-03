@@ -1,5 +1,6 @@
 {
   "name": "hephaestus",
+  "productName": "Hephaestus",
   "version": "0.1.0",
   "description": "A Electron multi-platform application that handles building Bohemia Interactive PBOs.",
   "main": "main.js",
