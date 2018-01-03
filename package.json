@@ -1,0 +1,22 @@
+{
+  "name": "hephaestus",
+  "version": "0.1.0",
+  "description": "A Electron multi-platform application that handles building Bohemia Interactive PBOs.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArmaAchilles/Hephaestus.git"
+  },
+  "author": "ArmaAchilles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArmaAchilles/Hephaestus/issues"
+  },
+  "homepage": "https://github.com/ArmaAchilles/Hephaestus#readme",
+  "dependencies": {
+    "electron": "^1.7.10"
+  }
+}
