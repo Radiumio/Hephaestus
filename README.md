@@ -1,4 +1,4 @@
 # Hephaestus
-A Electron multi-platform application that handles building Bohemia Interactive PBOs.
+An Electron multi-platform application that handles building Bohemia Interactive PBOs.
 
-Project is heavily a work-in-progress application.
+Project currently is very much in development and nothing should be considered final.
