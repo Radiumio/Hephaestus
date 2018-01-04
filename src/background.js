@@ -46,9 +46,10 @@ app.on("ready", () => {
     })
   );
 
-  if (env.name === "development") {
-    mainWindow.openDevTools();
-  }
+  // If main window was closed then exit out of the app.
+  mainWindow.on('closed', function(){
+     app.exit(0); 
+  });
 });
 
 app.on("window-all-closed", () => {
